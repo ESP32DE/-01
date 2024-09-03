@@ -11,6 +11,16 @@ small details are different this time.
 ![top-secrets-confidential](https://github.com/user-attachments/assets/b58d6bd8-efa4-4e4e-b5fe-b06e3b4a064c)
 
 
+# '24 Sept 03 WoWZa !
+
+MCU SoC ESP32-C5 waiting for fw download :)
+
+![grafik](https://github.com/user-attachments/assets/71a74c12-02b2-4d60-a26f-866424ec074e)
+
+
+
+
+
 
 # '24 Aug 29
 MCU SoC ESP32-C5 is here :D
